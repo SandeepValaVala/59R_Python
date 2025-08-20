@@ -55,7 +55,58 @@
 # Reverse a number using a  while  loop. 
 # 1.  Also can we get the sum of all the digits.
 
+# n = 123
+# sum = 0
+# v = 0
+# while n > 0:
+#     p = n % 10
+#     sum+= p
+#     v = v * 10 + p 
+#     n = n // 10
+# print(v)
+# print(sum)
 
+# n = 1234
+# product = 1
+# while n > 0:
+#     p = n % 10
+#     product *= p
+#     n = n // 10
+# print(product)
+
+# n = 1234
+# product = 1
+# while n > 0:
+#     p = n % 10
+#     if p % 2 == 0:
+#         product *= p
+#     n = n // 10
+# print(product)
+
+# ---- product(*) of even numbers  from 1 - 10:-------
+
+# num = 1
+# sum = 1
+# while num <= 10:
+#     if num % 2 == 0:
+#         sum *= num
+#     num += 1
+# print(sum)
+
+
+
+# n = [1,2,3]
+# n.reverse()
+# print(n)
+
+
+# n = 123
+# v = 0
+# while n > 0:
+#     s = n % 10
+#     v = v * 10 + s
+#     n = n // 10
+# print(v)
 
 
 
@@ -63,7 +114,12 @@
  
 # Write a program to count the number of digits in a given number using a  while  loop.
 
-
+# num = 4565675
+# count = 0
+# while num > 0:
+#     count+=1
+#     num = num // 10
+# print(count)
 
 
    
@@ -172,8 +228,6 @@
 
 
 # ---
-    
-    
 
 
 
