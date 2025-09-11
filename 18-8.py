@@ -194,7 +194,18 @@
 
 
 
+
 # ------ write a program to classify a character entered by the user as a vowel, consonant, or neither.-------
 
+# input_char = input('Enter a character : ')
+# def check_char(in_ch):
+#     if in_ch in 'aeiou':
+#         print('vowel')
+#     else:
+#         print('consonant')
+# elif in_ch in 'bcdfgh':
+    
 
 
+
+# -----------
