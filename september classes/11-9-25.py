@@ -13,3 +13,8 @@
 class Calc:
     Company_name = "casio"
     
+    
+    
+    a + b
+
+    

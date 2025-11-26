@@ -74,8 +74,8 @@
 #         self.manf_date = manf_date
 #         print('Parent class constructor called')
     
-#     def add(self , a, b):
-#         return a + b
+    # def add(self , a, b):
+    #     return a + b
     
 #     def mul(self , a, b):
 #         return a * b
