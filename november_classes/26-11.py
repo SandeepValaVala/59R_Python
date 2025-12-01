@@ -204,3 +204,7 @@ print(next(g1))
 print(next(g1))
 print(next(g1))
 print(next(g1))
+
+
+g2 = (i for i in range(1,100))
+print(g2)

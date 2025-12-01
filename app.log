@@ -1,0 +1,24 @@
+DEBUG:root:This block started execcution
+INFO:root:Function execution completed
+WARNING:root:Warning
+ERROR:root:Error
+CRITICAL:root:Criticcal error
+2025-11-28 14:56:51,192-DEBUG-This block started execcution
+2025-11-28 14:56:51,192-INFO-Function execution completed
+2025-11-28 14:56:51,193-WARNING-Warning
+2025-11-28 14:56:51,193-ERROR-Error
+2025-11-28 14:56:51,193-CRITICAL-Criticcal error
+2025-11-28 15:02:44,305-DEBUG-This block started execcution
+2025-11-28 15:02:44,305-INFO-Function execution completed
+2025-11-28 15:02:44,305-WARNING-Warning
+2025-11-28 15:02:44,305-ERROR-Error
+2025-11-28 15:02:44,305-CRITICAL-Criticcal error
+2025-11-28 15:02:44,887-INFO-connection establishment done
+2025-11-28 15:02:44,887-INFO-DB connection closed
+2025-11-28 20:07:09,577-DEBUG-This block started execcution
+2025-11-28 20:07:09,577-INFO-Function execution completed
+2025-11-28 20:07:09,577-WARNING-Warning
+2025-11-28 20:07:09,577-ERROR-Error
+2025-11-28 20:07:09,577-CRITICAL-Criticcal error
+2025-11-28 20:07:09,934-INFO-connection establishment done
+2025-11-28 20:07:09,934-INFO-DB connection closed

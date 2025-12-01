@@ -1,0 +1,28 @@
+
+
+connect to pdbc commandss
+
+import mysql.connector
+
+
+conn = mysql.connector.connect(
+    host = 'localhost',
+    user = 'root',
+    password = 'secert@123', #your mysql password
+    database = 'database_name',
+    # port = 3306 #is a default
+    port = 13988 # remote mysql server to connect in another  mysql workbench serverr too use aiven.console 
+    
+)
+
+cursor = conn.cursor()
+cursor.execute('SHOW TABLES')
+print(cursor.fetchall())
+print(cursor.fetchone())
+print(cursor.fetchmany(3))
+
+print(conn.is_connected())#  it will give boolean values likke (true /false)
+
+# ACID  --
+
+cursor.execute('')

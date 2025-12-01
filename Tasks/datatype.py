@@ -56,9 +56,18 @@
 
  #8.Create a dictionary of 3 students with their marks. Print the dictionary
 
-marks ={
-    'A': 98,
-    'B': 88,
-    'C': 76
-}
-print(marks) #{'A': 98, 'B': 88, 'C': 76}
+# marks ={
+#     'A': 98,
+#     'B': 88,
+#     'C': 76
+# }
+# print(marks) #{'A': 98, 'B': 88, 'C': 76}
+# Python3 Program to find minimum 
+# number of operations to make all 
+# array Elements equal
+
+# Function to find minimum number 
+# of operations to make all array
+# Elements equal
+
+
