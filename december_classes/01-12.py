@@ -121,3 +121,22 @@ tk.Button(action_frame,text='Delete', command=delete_record).grid(row = 1,column
 fill_text_box() #call the text_ box function
 
 root.mainloop()
+
+
+
+# db_username = "sai"
+# db_password = "12345"
+
+# remaining_chances = 3
+# while remaining_chances > 0:
+#     input_username = input("Enter username : ")
+#     input_password = input("Enter password : ")
+    
+#     if  db_username == input_username and db_password == input_password:
+#         print("login Successful")
+#         break
+#     else:
+#         remaining_chances -= 1
+#         print("login failed")
+#         if remaining_chances == 0:
+#             print("please try after 24hrs")

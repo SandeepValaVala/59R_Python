@@ -11,8 +11,8 @@
 
 # import math
 
-# # num = 16
-# # print(math.sqrt(num))
+# num = 16
+# print(math.sqrt(num))
 
 # num = 5
 # print(math.factorial(num))
